@@ -18,8 +18,7 @@ The goal is to build a system that predicts device price ranges using machine le
 ### Python Project Setup
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/device-price-classification.git
-    cd device-price-classification/python
+    git clone https://github.com/basel-ay/Devices-Price-Classification-with-Spring-Boot.git
     ```
 
 2. **Create and Activate a Virtual Environment:**
@@ -41,7 +40,7 @@ The goal is to build a system that predicts device price ranges using machine le
 ### Spring Boot Project Setup
 1. **Navigate to the Spring Boot Directory:**
     ```sh
-    cd device-price-classification/springboot
+    cd SpringBoot
     ```
 
 2. **Build the Project:**
